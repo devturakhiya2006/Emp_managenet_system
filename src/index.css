@@ -1,0 +1,16 @@
+ *{
+    /* color:#fff;  */
+}
+html,body{
+    height:100%;
+    width:100%;
+    color:#fff;
+} 
+body{
+    background-color:#111;
+}
+@import "tailwindcss";
+
+/* #taskList::-webkit-scrollbar{
+    display:none;
+} */
